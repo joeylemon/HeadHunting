@@ -1,0 +1,21 @@
+name: HeadHunting
+main: com.pwncraftpvp.hh.core.Main
+description: The Legend Craft - HeadHunting
+author: JjPwN1
+version: 1.3.4
+depend: [WorldEdit, WorldGuard]
+commands:
+   headhunting:
+      description: HeadHunting main command
+   hh:
+      description: HeadHunting main command
+   rankup:
+      description: Level up!
+   levelup:
+      description: Level up!
+   rename:
+      description: Rename your items!
+   fix:
+      description: Fix any broken-down items!
+   cannon:
+      description: Paste a tnt cannon at your location!
